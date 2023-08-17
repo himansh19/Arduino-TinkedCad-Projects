@@ -5,6 +5,7 @@ Link: https://www.tinkercad.com/things/2LbRS8Sb2E3
 
 **Schematic View**
 
+
 ![image](https://github.com/himansh19/Arduino-TinkedCad-Projects/assets/89848299/3d0fedf7-fecc-4a1c-81b3-3cffbbf672c8)
 
 **Components List**
