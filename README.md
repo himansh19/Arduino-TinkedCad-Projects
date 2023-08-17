@@ -1,6 +1,6 @@
 # Arduino-TinkedCad-Projects
 
-Discussed various Tinkercad projects with 
+**Discussed various Tinkercad projects with**
 
 live link to stimulate
 
