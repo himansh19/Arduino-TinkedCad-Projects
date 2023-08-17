@@ -6,7 +6,6 @@ RGB led controlled using ultrasonic sensor , color of light will change as objec
 ![image](https://github.com/himansh19/Arduino-TinkedCad-Projects/assets/89848299/8591f780-e0f9-4f1e-9da7-ff6c0d54229c)
 ![image](https://github.com/himansh19/Arduino-TinkedCad-Projects/assets/89848299/d651809d-0b9d-49e7-a045-7ac537a5ee5e)
 
-
 **Schematic View**
 
 
