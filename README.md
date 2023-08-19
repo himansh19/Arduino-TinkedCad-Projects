@@ -2,12 +2,15 @@
 
 **Discussed various Tinkercad projects with**
 
-live link to stimulate
 
-Code
+- live link to stimulate
 
-Circuit View
+- Code
 
-Schematic View
+- Circuit View
 
-Components List
+- Schematic View
+
+- Components List
+
+My Tinkercad Account: https://www.tinkercad.com/users/7eySR2IyNje?category=circuits
